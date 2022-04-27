@@ -1,2 +1,2 @@
 
-This program creates a password by taking random characters, alphabet and numbers 
+This program creates a password by taking random special characters, alphabet and numbers 
